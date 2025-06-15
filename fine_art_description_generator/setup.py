@@ -8,6 +8,7 @@ import subprocess
 import sys
 import shutil
 
+
 def main():
     """Run the setup process."""
     print("Fine Art Description Generator - Setup")
